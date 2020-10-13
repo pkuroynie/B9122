@@ -1,5 +1,3 @@
-author:huasheng nie \n
-added python python \n
-added python notebook test2 \n
-added python notebook test1 \n
-
+# added new test2 python notebook 
+# author:roy nie
+# python and python notebook
